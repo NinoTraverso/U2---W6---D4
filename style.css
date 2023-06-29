@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;600&display=swap");
+
+.fF300 {
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+  }
+
+.fF600 {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+}
+
+#navBar {
+  height: 120px;
+}
+
